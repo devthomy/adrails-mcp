@@ -3,7 +3,16 @@
   "name": "ai.adrails/adrails",
   "title": "Adrails",
   "description": "Specialist AI agents for Meta Ads and Google Ads. Every change waits for your approval.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://adrails.ai/mcp",
-  "remotes": [{ "type": "streamable-http", "url": "https://adrails.ai/api/mcp" }]
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://adrails.ai/api/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/devthomy/adrails-mcp",
+    "source": "github"
+  }
 }
