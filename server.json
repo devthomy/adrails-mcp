@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ai.adrails/adrails",
+  "title": "Adrails",
+  "description": "Specialist AI agents for Meta Ads and Google Ads. Every change waits for your approval.",
+  "version": "1.0.0",
+  "websiteUrl": "https://adrails.ai/mcp",
+  "remotes": [{ "type": "streamable-http", "url": "https://adrails.ai/api/mcp" }]
+}
