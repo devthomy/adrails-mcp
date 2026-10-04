@@ -55,11 +55,11 @@ Every tool, its inputs and its access level: [MCP tools reference](https://adrai
 
 - *Which Meta and Google Ads campaigns wasted the most spend last week, and why?*
 - *Compare blended ROAS this month with last month, using Shopify revenue.*
-- *Prepare a 20% budget increase on my best campaign.* Nothing changes until you approve the link it returns.
+- *Prepare a 20% budget increase on my best campaign.* Nothing changes until you apply it in Adrails from the link it returns.
 
 ## Security
 
-A tool call runs no Adrails AI model, so it uses no agent credit (except an automation with an agent step), and it never writes to an ad account by itself: a change to Meta or Google Ads needs your explicit approval, signed in to Adrails, before the proposal expires. Connections can be revoked at any time from the MCP page in Adrails. Details: [MCP security](https://adrails.ai/docs/mcp/security).
+A tool call runs no Adrails AI model, so it uses no agent credit (except an automation with an agent step), and it never writes to an ad account by itself: a change to Meta or Google Ads is applied by you, signed in to Adrails, before the proposal expires. Connections can be revoked at any time from the MCP page in Adrails. Details: [MCP security](https://adrails.ai/docs/mcp/security).
 
 ## Support
 
