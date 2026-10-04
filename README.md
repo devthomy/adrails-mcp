@@ -2,7 +2,7 @@
 
 # Adrails MCP server
 
-Remote MCP server for [Adrails](https://adrails.ai), the AI workspace for paid media. Connect Claude, Claude Code, ChatGPT, Codex or any remote MCP client to your Meta Ads and Google Ads accounts, your store and your analytics. Reads run at once; every advertising change comes back as a proposal you approve in the browser before it reaches Meta or Google.
+Remote MCP server for [Adrails](https://adrails.ai), the AI workspace for paid media. Connect Claude, Claude Code, ChatGPT, Codex or any remote MCP client to your Meta Ads and Google Ads accounts, your store and your analytics. Agents read your accounts and business data, build campaigns and prepare budget, status and launch changes, each with a link to its exact before and after.
 
 This repository holds the listing metadata. The server itself is hosted by Adrails: there is nothing to install or run.
 
@@ -45,7 +45,7 @@ Full steps, including other clients: [Connect an AI client](https://adrails.ai/d
 
 - **Performance and analysis**: period and daily performance, metric comparisons, diagnosis, portfolio and business reviews across Meta and Google Ads, with store revenue next to ad metrics.
 - **Campaigns**: campaign structure, drafts, templates, media, audience and keyword research (including Google Keyword Planner volumes).
-- **Changes under approval**: budget, status and campaign launches are prepared as proposals with a link to review the exact before and after.
+- **Changes**: budget, status and campaign launches are prepared with a link to the exact before and after, applied once confirmed.
 - **Business data**: Shopify, Klaviyo, Stripe, Triple Whale and PostHog connections, orders, customers and revenue.
 - **Workspace**: automations, Knowledge, channels and job status.
 
