@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.adrails/adrails",
   "title": "Adrails",
-  "description": "AI agents that build, test and monitor Meta Ads and Google Ads campaigns from your real data.",
-  "version": "1.0.2",
+  "description": "Run Meta and Google Ads from ChatGPT, Claude or Cursor with approval-gated campaign changes.",
+  "version": "1.0.3",
   "websiteUrl": "https://adrails.ai/mcp",
   "remotes": [
     {
